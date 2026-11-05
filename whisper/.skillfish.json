@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "whisper",
+  "owner": "orchestra-research",
+  "repo": "ai-research-skills",
+  "path": "18-multimodal/whisper",
+  "branch": "main",
+  "sha": "a6dc1a01a55220cab980327539848e38aa21dbc4",
+  "source": "manual"
+}
